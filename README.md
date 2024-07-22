@@ -1,7 +1,7 @@
 Senior Software Engineer
 ------------------------
 
-Senior Engineer with extensive background in AI-ML, Cloud, DevOps, Test Automation, QA Management, Cyber Security, Solutions Architecture & Development with Python stack
+Senior Engineer with extensive background in Cloud, DevOps, Test Automation, QA Management, Cyber Security, Solutions Architecture & Development with Python stack
 
 *   🌍  I'm based in Chicago
 *   ✉️  You can contact me at [shmikkil@gmail.com](mailto:shmikkil@gmail.com)
